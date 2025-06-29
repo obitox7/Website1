@@ -1,0 +1,109 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: #e0e2e4;
+    display: inline;
+    justify-items: center;
+    
+}
+#nameandtext{
+    width: 100%;
+    height: 200px;
+    background-color: ;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+}
+#kanhit{
+    width: 200px;
+    height:120px;
+    background-color:;
+    
+    
+}
+#slogan{
+    background-color:;
+    font-size: 20px;
+    width: 200px;
+    height:20px;
+    font-weight: 80px;
+    margin-top: -120px;
+    
+}
+.text{
+    text-align:center;
+    
+    
+}
+#name{
+    font-size:45px;
+    font-family: lucida
+    font-weight: 40px;
+    
+    
+    
+    
+}
+.box{
+  background-color: #c6bcb6;  
+  width: 100%;
+  height: 120px;
+    border-radius: 20px;
+    margin-left:0px;
+}
+#box1{
+    background-color: ;
+    height: 220px;
+    width: 100%;
+    
+}
+#titledata{
+    background-color:
+    width: 100%;
+    height: 10%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+   
+ 
+}
+
+.scroll{
+    background-color: ;
+    width: 100%;
+    margin-bottom:0px;
+    margin-top: -10px;
+    height: 200px;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 10px;
+    
+    
+}
+
+#box2{
+    margin-top:120px;
+    height: 150%;
+}
+.photo{
+    background-color: #96897f;
+    height:75%;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    margin-top:30px;
+    
+}
+
+
