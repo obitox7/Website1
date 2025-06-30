@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: #e0e2e4;
+}
+#nameandtext{
+    width: 100%;
+    height: 200px;
+}
+#kanhit{
+    width: 100%;
+    height:120px;
+    text-align: center;
+}
+#slogan{
+    font-size: 20px;
+    width: 100%;
+    height:20px;
+    text-align: center;
+}
+#name{
+    text-align: center;
+}
+#name{
+    font-size:45px;
+    font-family: lucida;
+    font-weight: 900;
+}
+.box{
+  background-color: #c6bcb6;  
+  width: 100%;
+  height: 120px;
+    border-radius: 20px;
+    
+}
+#box1{
+    height: 250px;
+    width: 100%;
+}
+#titledata{
+    width: 100%;
+    height: 10%;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+.scroll{
+    width: 100%;
+    margin-top: -10px;
+    height: 200px;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 10px;
+    
+}
+#box2{
+    margin-top:50px;
+    height:100vh;
+}
+.photo{
+    background-color: #96897f;
+    height:75%;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    margin-top:30px;
+}
+@media (min-width:475px){}
+@media (min-width:640px){}
+@media (min-width:768px){}
+@media (min-width:1024px){}
+@media (min-width:1280px){}
